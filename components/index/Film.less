@@ -1,0 +1,180 @@
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 70;
+	}
+}
+.wraper {
+	width: 70rem;
+	margin-top: 1rem;
+	.q-header {
+		z-index: 7;
+		background-color: purple;
+		display: flex;
+		justify-content: flex-start;
+		align-items: baseline;
+		color: white;
+		padding: 0.7rem 0 0.7rem 1.5rem;
+		border-radius: 4px 4px 0 0;
+		font-size: 0.9rem;
+		margin-bottom: 0;
+		.q-title {
+			font-size: 1rem;
+			font-family: '华文琥珀';
+		}
+		.active {
+			position: relative;
+			cursor: pointer;
+			&::after {
+				position: absolute;
+				border-left: 5px solid transparent;
+				border-right: 5px solid transparent;
+				border-bottom: 7px solid #fff;
+				content: '';
+				display: block;
+				width: 2px;
+				height: 0;
+				top: 1.5rem;
+				left: 0;
+				right: 0;
+				margin: auto;
+			}
+		}
+	}
+	.show {
+		display: flex;
+		justify-content: center;
+		position: relative;
+		height: 21rem;
+		border: 1px solid #ddd;
+		z-index: 0;
+		border-top: none;
+		background-color: white;
+		border-radius: 0 0 4px 4px;
+		overflow: hidden;
+		width: 70rem;
+		.btn {
+			cursor: pointer;
+			width: 2.5rem;
+			height: 2.5rem;
+			background: #333;
+			position: absolute;
+			z-index: 7;
+			top: 43%;
+			border-radius: 2.5rem;
+			animation: fadeIn .5s;
+			text-align: center;
+			line-height: 3rem;
+			i {
+				color: white;
+				font-size: 1.5rem;
+			}
+			&-pre {
+				left: 0.5rem;
+			}
+			&-next {
+				right: 0.5rem;
+			}
+		}
+		.q-list {
+			display: flex;
+			flex-wrap: nowrap;
+			position: absolute;
+			margin-left: 1rem;
+			margin-top: -0.1rem;
+			&-one{
+				left:0rem;
+				transition: left .7s;
+			}
+			&-two{
+				left:-68.8rem;
+				transition: left .7s;
+			}
+			.film {
+				width: 12.2rem;
+				height: 17rem;
+				margin: 1.5rem 0.7rem 0 0.8rem;
+				border-radius: 4px;
+				position: relative;
+				a {
+					text-decoration: none;
+					display: block;
+				}
+				&-pic {
+					border-radius: 4px;
+					width: 12.2rem;
+					height: 17rem;
+					opacity: .88;
+				}
+				&-imax {
+					position: absolute;
+					top: 1rem;
+					left: -0.3rem;
+					background-color:purple;
+					color: white;
+					padding: 0.2rem 0.6rem;
+					border-radius: 4px;
+					font-size: 0.8rem;
+					min-width: 2rem;
+					text-align: center;
+				}
+				&-info {
+					position: absolute;
+					display: flex;
+					justify-content: space-between;
+					color: white;
+					text-shadow: 1px 1px 0px purple;
+					width: 11rem;
+					bottom: 0;
+					padding: 0.5rem;
+					&-mark {
+						font-size: 0.7rem;
+						text-shadow: 0px 0px 2px black;
+						font-weight: bold;
+						.mark {
+							font-size: 1rem;
+							color: orangered;
+						}
+					}
+					&-title {
+						font-size: 1rem;
+						margin: 0.3rem 0;
+						font-weight: bold;
+						color: white;
+						text-shadow: 0 0 10px black;
+						max-width: 7.5rem;
+						white-space: nowrap;
+						text-overflow: ellipsis;
+						overflow: hidden;
+					}
+					&-buy {
+						color: white;
+						background-color: rgb(100,0,60);
+						box-shadow: 0 0 2px white;
+						border-radius: 4px;
+						width: 2rem;
+						padding: 0.2rem 0.5rem;
+						font-size: 0.8rem;
+						align-self: flex-end;
+						text-align: center;
+					}
+				}
+			}
+		}
+		.pages{
+			align-self: flex-end;
+			margin-bottom: .3rem;
+			i{
+				cursor: pointer;
+				font-size: 1.5rem;
+			color: #999;
+			}
+			.active{
+				color: purple;
+			}
+		}
+	}
+
+}

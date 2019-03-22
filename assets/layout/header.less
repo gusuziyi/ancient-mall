@@ -1,0 +1,268 @@
+@import '../layout.less';
+@layout-div: {
+	position: absolute;
+	width: 12rem;
+	margin-top: @header-div-margin-top;
+	margin-left: 1rem;
+	border-radius: 0 0 4px 4px;
+	background-color: #fff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16);
+	border: 1px solid #e5e9ef;
+	text-align: left;
+	z-index: 1;
+}
+@keyframes apprear-from-down {
+	0% {
+		margin-top: 2.8rem;
+	}
+	100% {
+		margin-top: 1.8rem;
+	}
+}
+.header {
+	left: 0;
+	top: 0;
+	margin: -8px;
+	background-color: rgba(0, 0, 0, 0.8);
+	z-index: 7;
+	padding-top: 0.5rem;
+	height: 3rem;
+	&-left {
+		display: flex;
+		justify-content: flex-start;
+		font-size: 0.8rem;
+		color: @header-link-color;
+		.geo-service,
+		.online-consult {
+			&:hover {
+				color: white;
+				cursor: pointer;
+			}
+			position: relative;
+			margin-left: @header-link-margin-left;
+			&-div {
+				@layout-div();
+			}
+		}
+		.cur-city,.home {
+			a {
+				&:hover {
+					color: white;
+					cursor: pointer;
+				}
+			}
+		}
+		.cur-city>a{
+			margin-left: @header-link-margin-left;
+		}
+		.geo-service-div {
+			display: flex;
+			justify-content: space-between;
+			padding: 0.7rem;
+			width: 9rem;
+			height: 7rem;
+			left: -4rem;
+			.item {
+				text-align: center;
+				a:hover {
+					color: purple;
+				}
+				img {
+					width: 4rem;
+					height: 5rem;
+					border-radius: 5px;
+					display: block;
+					margin-bottom: 0.5rem;
+				}
+			}
+		}
+		.online-consult-div {
+			margin-left: 7rem;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: space-between;
+			padding: 0.5rem;
+			width: 5rem;
+			height: 12rem;
+			left: -8.5rem;
+			.item {
+				text-align: center;
+				a:hover {
+					color: purple;
+				}
+				img {
+					width: 4rem;
+					height: 4rem;
+					border-radius: 50%;
+					display: block;
+					margin-bottom: 0.5rem;
+				}
+			}
+		}
+	}
+	&-right {
+		display: flex;
+		justify-content: flex-end;
+		font-size: 0.8rem;
+		color: @header-link-color;
+		padding-right: 2rem;
+		.login {
+			.transparent {
+				width: 100%;
+				&::before {
+					content: ' ';
+				}
+			}
+			.user-pic {
+				right: 28rem;
+				top: 0.8rem;
+				position: absolute;
+				border-radius: 50%;
+				width: 2rem;
+				height: 2rem;
+				transition: width 0.3s, height 0.3s, right 0.3s;
+				z-index: 7;
+			}
+			.user-pic.active {
+				right: 27rem;
+				width: 4rem;
+				height: 4rem;
+				border: 2px solid white;
+			}
+			&-div {
+				@layout-div();
+				margin-top: 1.7rem;
+				right: 22rem;
+				height: 12rem;
+				overflow: hidden;
+				animation: apprear-from-down 0.3s;
+			}
+		}
+		.order,
+		.sign,
+		.list,
+		.my,
+		.cart {
+			overflow: hidden;
+			.num {
+				background-color: darkmagenta;
+				color: white;
+				border-radius: 3px;
+				padding: 1px 6px;
+			}
+			&:hover {
+				color: white;
+				cursor: pointer;
+			}
+			padding-left: @header-link-margin-left;
+			&-div {
+				@layout-div();
+			}
+		}
+		.sign-div {
+			width: 23rem;
+			height: 8rem;
+			right: 12rem;
+			padding-left: 1rem;
+			padding-top: 1rem;
+		}
+		.order-div {
+			width: 5rem;
+			height: 8rem;
+			right: 11.5rem;
+			padding-top: 7px;
+			dd {
+				text-align: center;
+				width: 100%;
+				a{
+					display: block;
+					padding: .25rem;
+				}
+				&:hover {
+					background-color: @header-link-hover-bg;
+					a {
+						color: white;
+					}
+				}
+			}
+		}
+		.my-div {
+			width: 24rem;
+			height: 16rem;
+			right: 4rem;
+			dd:hover {
+				background-color: @header-div-dd-hover-bgc;
+			}
+			&.not-login {
+				.q-title {
+					margin: 0.5rem 0 0.3rem 1rem;
+					font-size: 0.9rem;
+					color: purple;
+				}
+				width: 8.4rem;
+				height: 7rem;
+				right: 5rem;
+				padding: 0.5rem;
+				display: flex;
+				flex-direction: column;
+				justify-content: space-around;
+				align-items: center;
+			}
+		}
+
+		.cart-div {
+			width: 24rem;
+			max-height: 16rem;
+			right: 4rem;
+			display: flex;
+			flex-direction: column;
+			dd:hover {
+				background-color: @header-div-dd-hover-bgc;
+			}
+			.q-title {
+				margin: 0.5rem 0 0.3rem 1rem;
+				font-size: 0.9rem;
+				color: purple;
+			}
+			.hr {
+				margin-left: 1rem;
+			}
+			.go-cart-btn {
+				align-self: flex-end;
+                margin: 0.3rem 1rem 1rem 0;
+				a{
+					color: white;
+				} 
+			}
+			&.not-login {
+				width: 8rem;
+				max-height: 7rem;
+				right: 16rem;
+				padding: 0.5rem;
+				display: flex;
+				flex-direction: column;
+				justify-content: space-around;
+				align-items: center;
+			}
+		}
+
+		.list-div {
+			left: 2rem;
+			margin-left: 0;
+			margin-right: 0;
+			width: 76rem;
+			height: 8rem;
+			display: flex;
+			overflow-x: hidden;
+			dd:hover {
+				background-color: rgba(177, 177, 177, 0.1);
+			}
+			.q-title {
+				margin: 0.5rem 0 0.3rem 1rem;
+				font-size: 0.9rem;
+				color: purple;
+			}
+		}
+	}
+}

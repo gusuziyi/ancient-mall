@@ -1,0 +1,135 @@
+.warpper {
+	width: 25rem;
+	height: 30rem !important;
+	top: 3rem;
+	left: 27rem;
+	box-shadow: 0 0 2px #666;
+	background-color: white;
+	z-index: 17;
+	position: absolute;
+	border-radius: 4px;
+	cursor: move;
+	.q-header {
+		background-color: purple;
+		color: white;
+		height: 2.5rem !important;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: 4px 4px 0 0;
+		position: relative;
+		i{
+			position: absolute;
+			top: -.2rem;
+			right: 0rem;
+			padding: 1rem;
+			font-size: 1rem;
+			&:hover{
+				cursor: pointer;
+			}
+		}
+	}
+	.main {
+		.msg-div {
+			display: flex;
+			align-items: center;
+			margin-bottom: 0.7rem;
+			&.fl {
+				justify-content: flex-start;
+			}
+			&.fr {
+				justify-content: flex-end;
+			}
+			.img {
+				width: 3rem;
+				height: 3rem;
+				border-radius: 1.5rem;
+			}
+			/* fl is jas and fr is me */
+			.msg {
+				&.fl {
+					margin-left: 0.7rem;
+					background-color: purple;
+					color: white;
+				}
+				&.fr {
+					margin-right: 0.7rem;
+					background: darkcyan;
+					color: white;
+				}
+				&-answer-img{
+					&.fl{
+						margin-left: 0.7rem;
+					}
+					&.fr{
+						margin-right: 0.7rem;
+					}
+					max-width: 9rem;
+					min-height: 2rem;
+					border: 1px solid purple;
+				}
+				padding: 0.5rem 1rem;
+				max-width: 13rem;
+				border-radius: 4px;
+			}
+		}
+	}
+	.q-footer {
+		height: 5rem !important;
+		margin: 0;
+		position: relative;
+		padding: 0;
+		.input {
+			border-top: 1px solid purple;
+			width: 25rem;
+			height: 5rem;
+		}
+		.btn {
+			position: absolute;
+			bottom: 0.5rem;
+			padding-right: 1rem !important;
+			padding-left: 1rem !important;
+		}
+		.chat-pic {
+			right: 5rem;
+			overflow: hidden;
+		}
+		.chat-pic-input{
+			width: 2.6rem;
+			height: 3rem;
+			bottom: -1rem;
+			right: 5rem;
+			z-index: 21;
+			opacity: 0;
+			&:hover{
+				cursor: pointer;
+			}
+		}
+		.close {
+			right: 9rem;
+		}
+		.chat {
+			right: 1rem;
+		}
+		.quick-reply {
+			position: absolute;
+			bottom: 2rem;
+			right: -1rem;
+			box-shadow: 0 0 2px purple;
+			width: 7rem;
+			z-index: 27;
+			background-color: white;
+			color: purple;
+			border-radius: 4px;
+			overflow: hidden;
+			font-size: 0.9rem;
+			dd {
+				padding: 0.3rem 0 0.3rem 0.7rem;
+				margin: 0;
+				&:hover {
+					background-color: #eee;
+				}
+			}
+		}
+	}
+}

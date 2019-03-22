@@ -1,0 +1,202 @@
+.city-layout {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 68rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #ccc;
+}
+.dd-layout {
+	dd {
+		display: inline-flex;
+		color: #666;
+		cursor: pointer;
+		&:hover {
+			color: purple;
+			font-weight: 400;
+		}
+	}
+}
+//below is customize
+.city {
+	width: 70rem;
+	border-radius: 4px;
+	background-color: white;
+	border: 1px solid #aaa;
+	margin: auto auto;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	display: flex;
+	flex-direction: column;
+	padding: 2rem;
+	&-choose {
+		.city-layout();
+		padding-top: 0rem;
+		.city-input {
+			margin-left: 1rem;
+			color: #999;
+		}
+		&-province {
+			position: relative;
+			.hiddenDiv {
+				position: absolute;
+				top: 3.2rem;
+				padding: 1rem;
+				box-shadow: 0 0 2px #999;
+				z-index: 7;
+				background-color: white;
+				color: #666;
+				font-size: .8rem;
+				.active{
+					color: white;
+					background-color: purple;
+					border-radius: .5rem;
+					&:hover{
+						color: white;
+					}
+				}
+				.common {
+					content: '';
+					left: 1rem;
+					border-left: 7px solid transparent;
+					border-right: 7px solid transparent;
+					border-top: 0;
+					position: absolute;
+				}
+				&::before {
+					.common();
+					top: -0.5rem;
+					border-bottom: 7px solid #ccc;
+				}
+				&::after {
+					.common();
+					top: -0.4rem;
+					border-bottom: 7px solid white;
+				}
+				dl{
+					margin: 0;
+					display: flex;
+					justify-content: flex-start;
+					flex-wrap: wrap;
+					dt{
+						font-size: .9rem;
+						margin-bottom: .7rem;
+					}
+					dd{
+						text-align: center;
+						padding:.2rem ;
+						margin: .4rem;
+						min-width: 2.4rem;
+						margin-left: 0;
+						&:hover{
+							color: purple;
+							cursor: pointer;
+						}
+					}
+				}
+			}
+			.province-div {
+				left: 6rem;
+				width: 13rem;
+				dt{
+					width: 13rem;
+					text-align: center;
+				}
+			}
+			.city-div {
+				left: 15rem;
+				width: 13rem;
+				dt{
+					width: 13rem;
+					text-align: center;
+				}
+			}
+			.xinjiang{
+				dl>dd{
+					padding:.3rem .4rem;
+					min-width: 3rem!important;
+					margin-left: 0;
+				}
+			}
+		}
+
+		&-search {
+			position: relative;
+			margin-left: 10rem;
+			.city-search {
+				margin-left: 1rem;
+			}
+		}
+	}
+
+	&-hot {
+		.city-layout();
+		.dd-layout();
+	}
+	&-nearly {
+		.city-layout();
+		.dd-layout();
+	}
+	&-byword {
+		.city-layout();
+		.dd-layout();
+		border-bottom: none;
+		dd {
+			margin-left: 1.2rem;
+			text-align: center;
+			a {
+				min-width: 1.3rem;
+				text-decoration: none;
+				color: #666;
+				&:hover {
+					color: purple;
+					background-color: rgba(177, 177, 177, 0.3);
+				}
+			}
+		}
+	}
+	&-citys {
+		display: flex;
+		justify-content: flex-start;
+		flex-wrap: wrap;
+		position: relative;
+		align-items: center;
+		width: 64rem;
+		padding-top: 1.5rem;
+		margin-bottom: 0;	
+		border-top: 1px solid #ccc;
+		padding-left: 2rem;
+		&-word {
+			position: absolute;
+			left: 0rem;
+			width: 2rem;
+			height: 2rem;
+			border-radius: 1rem;
+			background-color: purple;
+			color: white;
+			text-align: center;
+			line-height: 2rem;
+		}
+		.dd-layout();
+			dd {
+				margin-bottom: .9rem;
+			}
+		
+	}
+	.to-up{
+		height: 2rem;
+		width: 2rem;
+		line-height: 2rem;
+		text-align:center;
+		background-color: purple;
+		bottom: 1rem;
+		right: 1rem;
+		border-radius: 4px;
+		i{
+			color: white;
+		}
+		position: fixed;
+	}
+}
+

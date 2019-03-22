@@ -1,0 +1,15 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-color: rgba(200, 200, 200, 0.2);
+	overflow-x: hidden;
+	
+}
+.el-input__inner {
+		border: 1px solid purple;
+		color: #666;
+	}
+	.el-input--small .el-input__icon:hover {
+		color: purple;
+		font-weight: bold;
+	}

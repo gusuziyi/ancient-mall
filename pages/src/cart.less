@@ -1,0 +1,118 @@
+.shop-list {
+	font-size: 0.9rem;
+	padding: 1rem 2rem 0 2rem;
+	.shop {
+		color: purple;
+		background-color: white;
+		margin-top: 1.5rem;
+		border-radius: 6px;
+		overflow: hidden;
+		border: 1px solid purple;
+		&-title {
+			padding: 0.8rem 1rem;
+			background-color: purple;
+			color: white;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			a {
+				text-decoration: none;
+				color: white;
+			}
+		}
+		&-goods-list {
+			.goods {
+				padding: 0.8rem 1rem;
+				border-top: 1px solid purple;
+				display: flex;
+				align-items: center;
+				&-title a{
+					text-decoration: none;
+					color: purple;
+				}
+				&-img {
+					height: 5.5rem;
+					width: 8rem;
+				}
+				&-num {
+					display: flex;
+					justify-content: center;
+				}
+				&-inventory {
+					.nervous {
+						color: orangered;
+					}
+				}
+				&-btn {
+					display: flex;
+					justify-content: flex-end;
+				}
+			}
+		}
+	}
+
+	.all-check {
+		z-index: 21;
+		position: fixed;
+		bottom: 0rem;
+		height: 3.9rem;
+		background-color: purple;
+		color: white;
+		width: 76rem;
+		display: flex;
+		align-items: center;
+		border-radius: 6px 6px 0 0;
+		padding: 0.8rem 1rem;
+		.total {
+			display: flex;
+			justify-content: center;
+			.goods-num {
+				color: #ff4949;
+				font-size: 1.2rem;
+			}
+		}
+		.btn {
+			display: flex;
+			justify-content: flex-end;
+		}
+	}
+	.checkbox {
+		width: 1.2rem;
+		height: 1.2rem;
+		background-color: #fff;
+		appearance: none;
+		border: 1px solid rgb(80, 0, 40);
+		border-radius: 4px;
+		display: inline-block;
+		vertical-align: middle;
+		margin-bottom: 4px;
+		position: relative;
+		outline: none;
+		&:checked::after {
+			content: ' ';
+			display: inline-block;
+			border: 2px solid purple;
+			border-top: none;
+			border-right:none;
+			width: 7px;
+			height: 5px;
+			-webkit-transform: rotate(-60deg);
+			position: absolute;
+			top: 4px;
+			left: 3px;
+		}
+	}
+	.empty{
+		color: white;
+		background-color: purple;
+		margin-top: 1.5rem;
+		border-radius: 6px;
+		overflow: hidden;
+		border: 1px solid purple;
+		height: 27rem;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.5rem;
+	}
+}

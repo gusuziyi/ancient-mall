@@ -1,0 +1,97 @@
+@import '~assets/layout.less';
+.wraper {
+	width: 70rem;
+	margin-top: 1rem;
+	.q-header {
+		z-index: 7;
+		background-color: purple;
+		display: flex;
+		justify-content: flex-start;
+		align-items: baseline;
+		color: white;
+		padding: 0.7rem 0 0.7rem 1.5rem;
+		border-radius: 4px 4px 0 0;
+		font-size: 0.9rem;
+		margin-bottom: 0;
+		.q-title {
+			font-size: 1rem;
+			font-family: '华文琥珀';
+		}
+		.active {
+			position: relative;
+			cursor: pointer;
+			&::after {
+				position: absolute;
+				border-left: 5px solid transparent;
+				border-right: 5px solid transparent;
+				border-bottom: 7px solid #fff;
+				content: '';
+				display: block;
+				width: 2px;
+				height: 0;
+				top: 1.5rem;
+				left: 0;
+				right: 0;
+				margin: auto;
+			}
+		}
+	}
+	.show {
+		height: 35rem;
+		border: 1px solid #ddd;
+		z-index: 0;
+		border-top: none;
+		background-color: white;
+		margin-top: -1rem;
+		border-radius: 0 0 4px 4px;
+		.q-list {
+			display: flex;
+			flex-wrap: wrap;
+			margin-left: 1rem;
+			.goods {
+				width: 20rem;
+				padding: 1rem 1rem .5rem 1rem;
+				margin: .5rem 0.3rem 0 0.3rem;
+				border-radius: 4px;
+				&:hover {
+					background-color: @header-div-dd-hover-bgc;
+				}
+				a {
+					text-decoration: none;
+					color: grey;
+					font-size: 0.8rem;
+				}
+				&-pic {
+					width: 20rem;
+					border-radius: 4px;
+					height: 10rem;
+				}
+				&-title {
+					color: purple;
+					font-size: 1rem;
+					margin: 0.3rem 0;
+				}
+				&-size {
+					margin: 0.3rem 0;
+					.size {
+						margin-left: 0.3rem;
+					}
+				}
+				&-price-div {
+					display: flex;
+					justify-content: space-between;
+					margin-right: 0.3rem;
+					.price {
+						font-size: 1rem;
+						color: purple;
+						font-weight: bold;
+					}
+					.ori-price {
+						text-decoration: line-through;
+						margin-left: 0.3rem;
+					}
+				}
+			}
+		}
+	}
+}

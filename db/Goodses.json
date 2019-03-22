@@ -1,0 +1,1862 @@
+[{
+    "id" : "1_nn",
+    "cid" : 1,
+    "name" : "佳期如梦古风写真",
+    "department" : "写真",
+    "category" : "",
+    "price" : 200,
+	"oriPrice":300,
+    "restTime" : 2,
+    "sellNum" : 420,
+    "attrs" : {
+        "size" : "大号",
+        "type" : "鹊桥仙"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-1.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-1.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-1.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-1.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-1.jpg"
+    },
+    "shopName" : "美妆小铺南宁店",
+    "shopCid" : "nn",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "10001",
+            "attrs" : {
+                "size" : "小号",
+                "type" : "醉花荫"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 200,
+			"oriPrice":300
+        },
+        {
+            "sku" : "10002",
+            "attrs" : {
+                "size" : "中号",
+                "type" : "少年游"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 400,
+			"oriPrice":500
+        },
+        {
+            "sku" : "10003",
+            "attrs" : {
+                "size" : "大号",
+                "type" : "鹊桥仙"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 800,
+			"oriPrice":900
+        },
+        {
+            "sku" : "10004",
+            "attrs" : {
+                "size" : "大号",
+                "type" : "点绛唇"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 1600,
+			"oriPrice":2000
+        }
+    ]
+}
+
+,{
+    "id" : "2_jd",
+    "cid" : 2,
+    "name" : "花开并蒂盛世写真",
+    "department" : "写真",
+    "category" : "",
+    "price" : 600,
+	"oriPrice":800,
+    "restTime" : 5,
+    "sellNum" : 180,
+    "attrs" : {
+        "size" : "青色",
+        "type" : "花开半夏"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-2.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-2.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-2.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-2.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-2.jpg"
+    },
+    "shopName" : "美妆小铺京都店",
+    "shopCid" : "jd",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "20001",
+            "attrs" : {
+                "size" : "青色",
+                "type" : "花开半夏"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 600,
+			"oriPrice":800
+        },
+        {
+            "sku" : "20002",
+            "attrs" : {
+                "size" : "粉色",
+                "type" : "茉莉世家"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 500,
+			"oriPrice":900
+        },
+        {
+            "sku" : "20003",
+            "attrs" : {
+                "size" : "红色",
+                "type" : "万紫千红"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 600,
+			"oriPrice":1000
+        },
+        {
+            "sku" : "20004",
+            "attrs" : {
+                "size" : "紫色",
+                "type" : "紫气东来"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 800,
+			"oriPrice":2000
+        }
+    ]
+}
+
+,{
+    "id" : "3_ld",
+    "cid" : 3,
+    "name" : "阳光海滩欢乐度假",
+    "department" : "旅游",
+    "category" : "",
+    "price" : 150,
+	"oriPrice":200,
+    "restTime" : 20,
+    "sellNum" : 1340,
+    "attrs" : {
+        "size" : "小孩",
+        "type" : "鼓浪屿"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-3.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-3.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-3.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-3.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-3.jpg"
+    },
+    "shopName" : "美妆小铺伦敦店",
+    "shopCid" : "ld",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "30001",
+            "attrs" : {
+                "size" : "小孩",
+                "type" : "鼓浪屿"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 150,
+			"oriPrice":200
+        },
+        {
+            "sku" : "30002",
+            "attrs" : {
+                "size" : "会员卡",
+                "type" : "夏威夷"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 200,
+			"oriPrice":400
+        },
+        {
+            "sku" : "30003",
+            "attrs" : {
+                "size" : "成人票",
+                "type" : "海南岛"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 300,
+			"oriPrice":600
+        },
+        {
+            "sku" : "30004",
+            "attrs" : {
+                "size" : "会员卡",
+                "type" : "巴厘岛"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 450,
+			"oriPrice":800
+        }
+    ]
+}
+
+,{
+    "id" : "4_ld",
+    "cid" : 4,
+    "name" : "鸾凤合鸣潮州古琴",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 4400,
+	"oriPrice":5000,
+    "restTime" : 3,
+    "sellNum" : 40,
+    "attrs" : {
+        "size" : "实木",
+        "type" : "雪山春晓"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-4.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-4.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-4.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-4.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-4.jpg"
+    },
+    "shopName" : "美妆小铺伦敦店",
+    "shopCid" : "ld",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "40001",
+            "attrs" : {
+                "size" : "实木",
+                "type" : "渔舟唱晚"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 3000,
+			"oriPrice":5000
+        },
+        {
+            "sku" : "40002",
+            "attrs" : {
+                "size" : "红木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 5200,
+			"oriPrice":7000
+        },
+        {
+            "sku" : "40003",
+            "attrs" : {
+                "size" : "楠木",
+                "type" : "梅花三弄"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 6300,
+			"oriPrice":9000
+        },
+        {
+            "sku" : "40004",
+            "attrs" : {
+                "size" : "黑檀木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 8450,
+			"oriPrice":20000
+        }
+    ]
+}
+
+,{
+    "id" : "41_jd",
+    "cid" : 41,
+    "name" : "鸾凤合鸣潮州古琴",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 2600,
+	"oriPrice":5000,
+    "restTime" : 3,
+    "sellNum" : 165,
+    "attrs" : {
+        "size" : "实木",
+        "type" : "梅花三弄"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-4.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-4.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-4.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-4.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-4.jpg"
+    },
+    "shopName" : "美妆小铺京都店",
+    "shopCid" : "jd",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "40001",
+            "attrs" : {
+                "size" : "实木",
+                "type" : "渔舟唱晚"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 3000,
+			"oriPrice":6000
+        },
+        {
+            "sku" : "40002",
+            "attrs" : {
+                "size" : "红木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 5200,
+			"oriPrice":9000
+        },
+        {
+            "sku" : "40003",
+            "attrs" : {
+                "size" : "楠木",
+                "type" : "梅花三弄"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 6300,
+			"oriPrice":10000
+        },
+        {
+            "sku" : "40004",
+            "attrs" : {
+                "size" : "黑檀木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 8450,
+			"oriPrice":20000
+        }
+    ]
+}
+
+,{
+    "id" : "42_bj",
+    "cid" : 42,
+    "name" : "鸾凤合鸣潮州古琴",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 3450,
+	"oriPrice":4000,
+    "restTime" : 3,
+    "sellNum" : 749,
+    "attrs" : {
+        "size" : "实木",
+        "type" : "渔舟唱晚"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-4.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-4.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-4.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-4.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-4.jpg"
+    },
+    "shopName" : "美妆小铺北京店",
+    "shopCid" : "bj",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "40001",
+            "attrs" : {
+                "size" : "实木",
+                "type" : "渔舟唱晚"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 3000,
+			"oriPrice":4000
+        },
+        {
+            "sku" : "40002",
+            "attrs" : {
+                "size" : "红木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 5200,
+			"oriPrice":6000
+        },
+        {
+            "sku" : "40003",
+            "attrs" : {
+                "size" : "楠木",
+                "type" : "梅花三弄"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 6300,
+			"oriPrice":7000
+        },
+        {
+            "sku" : "40004",
+            "attrs" : {
+                "size" : "黑檀木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 8450,
+			"oriPrice":9000
+        }
+    ]
+}
+
+,{
+    "id" : "5_xn",
+    "cid" : 5,
+    "name" : "执子之手唯美写真",
+    "department" : "写真",
+    "category" : "",
+    "price" : 500,
+	"oriPrice":800,
+    "restTime" : 3,
+    "sellNum" : 35,
+    "attrs" : {
+        "size" : "100张",
+        "type" : "樱花树"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-5.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-5.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-5.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-5.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-5.jpg"
+    },
+    "shopName" : "美妆小铺悉尼店",
+    "shopCid" : "xn",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "50001",
+            "attrs" : {
+                "size" : "100张",
+                "type" : "天之痕"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 500,
+			"oriPrice":800
+        },
+        {
+            "sku" : "50002",
+            "attrs" : {
+                "size" : "100张",
+                "type" : "樱花树"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 800,
+			"oriPrice":900
+        },
+        {
+            "sku" : "50003",
+            "attrs" : {
+                "size" : "300张",
+                "type" : "梅花鹿"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 1300,
+			"oriPrice":2000
+        },
+        {
+            "sku" : "50004",
+            "attrs" : {
+                "size" : "800张",
+                "type" : "海之女"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 2050,
+			"oriPrice":6000
+        }
+    ]
+}
+
+,{
+    "id" : "6_mlks",
+    "cid" : 6,
+    "name" : "岁月静好甜蜜之旅",
+    "department" : "旅游",
+    "category" : "",
+    "price" : 300,
+	"oriPrice":1000,
+    "restTime" : 4,
+    "sellNum" : 186,
+    "attrs" : {
+        "size" : "双人",
+        "type" : "体验版"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-6.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-6.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-6.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-6.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-6.jpg"
+    },
+    "shopName" : "美妆小铺马拉喀什店",
+    "shopCid" : "mlks",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "60001",
+            "attrs" : {
+                "size" : "单人",
+                "type" : "体验版"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 800,
+			"oriPrice":1000
+        },
+        {
+            "sku" : "60002",
+            "attrs" : {
+                "size" : "单人",
+                "type" : "自由行"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 1800,
+			"oriPrice":3000
+        },
+        {
+            "sku" : "60003",
+            "attrs" : {
+                "size" : "双人",
+                "type" : "邂逅版"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 2300,
+			"oriPrice":5000
+        },
+        {
+            "sku" : "60004",
+            "attrs" : {
+                "size" : "全家",
+                "type" : "极光行"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 4000,
+			"oriPrice":8000
+        }
+    ]
+}
+
+,{
+    "id" : "7_dld",
+    "cid" : 7,
+    "name" : "青青子衿挚爱典藏",
+    "department" : "写真",
+    "category" : "",
+    "price" : 500,
+	"oriPrice":600,
+    "restTime" : 7,
+    "sellNum" : 69,
+    "attrs" : {
+        "size" : "麻布",
+        "type" : "全家"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-7.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-7.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-7.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-7.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-7.jpg"
+    },
+    "shopName" : "美妆小铺多伦多店",
+    "shopCid" : "dld",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "70001",
+            "attrs" : {
+                "size" : "麻布",
+                "type" : "单人"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 300,
+			"oriPrice":400
+        },
+        {
+            "sku" : "70002",
+            "attrs" : {
+                "size" : "网格布",
+                "type" : "单人"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 600,
+			"oriPrice":800
+        },
+        {
+            "sku" : "70003",
+            "attrs" : {
+                "size" : "高光纸",
+                "type" : "双人"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 900,
+			"oriPrice":1200
+        },
+        {
+            "sku" : "70004",
+            "attrs" : {
+                "size" : "油画布",
+                "type" : "全家"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 1000,
+			"oriPrice":1500
+        }
+    ]
+}
+
+,{
+    "id" : "8_kpd",
+    "cid" : 8,
+    "name" : "踏雪寻梅北国之旅",
+    "department" : "旅游",
+    "category" : "",
+    "price" : 3200,
+	"oriPrice":3300,
+    "restTime" : 8,
+    "sellNum" : 5600,
+    "attrs" : {
+        "size" : "三天",
+        "type" : "普通款"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-8.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-8.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-8.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-8.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-8.jpg"
+    },
+    "shopName" : "美妆小铺开普敦店",
+    "shopCid" : "kpd",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "80001",
+            "attrs" : {
+                "size" : "一天",
+                "type" : "普通款"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 2300,
+			"oriPrice":3300
+        },
+        {
+            "sku" : "80002",
+            "attrs" : {
+                "size" : "三天",
+                "type" : "浪漫款"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 2600,
+			"oriPrice":4400
+        },
+        {
+            "sku" : "80003",
+            "attrs" : {
+                "size" : "三天",
+                "type" : "文艺款"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 2900,
+			"oriPrice":5500
+        },
+        {
+            "sku" : "80004",
+            "attrs" : {
+                "size" : "七天",
+                "type" : "古典款"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 3500,
+			"oriPrice":6600
+        }
+    ]
+}
+
+,{
+    "id" : "9_wl",
+    "cid" : 9,
+    "name" : "悠悠紫竹水韵巴乌",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 790,
+	"oriPrice":1100,
+    "restTime" : 9,
+    "sellNum" : 420,
+    "attrs" : {
+        "size" : "F调",
+        "type" : "红木版"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-9.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-9.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-9.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-9.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-9.jpg"
+    },
+    "shopName" : "美妆小铺文莱店",
+    "shopCid" : "wl",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "90001",
+            "attrs" : {
+                "size" : "F调",
+                "type" : "紫竹版"
+            },
+            "sattrs" : {
+                "width " : "9米",
+                "height " : "5米"
+            },
+            "price" : 700,
+			"oriPrice":1100
+        },
+        {
+            "sku" : "90002",
+            "attrs" : {
+                "size" : "G调",
+                "type" : "红木版"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "9米"
+            },
+            "price" : 900,
+			"oriPrice":1300
+        },
+        {
+            "sku" : "90003",
+            "attrs" : {
+                "size" : "降B调",
+                "type" : "红木版"
+            },
+            "sattrs" : {
+                "width " : "19米",
+                "height " : "15米"
+            },
+            "price" : 1200,
+			"oriPrice":1500
+        },
+        {
+            "sku" : "90004",
+            "attrs" : {
+                "size" : "C调",
+                "type" : "黑檀木版"
+            },
+            "sattrs" : {
+                "width " : "29米",
+                "height " : "25米"
+            },
+            "price" : 2500,
+			"oriPrice":3200
+        }
+    ]
+}
+
+,{
+    "id" : "10_lyrnl",
+    "cid" : 10,
+    "name" : "盛世红妆凤栖于桐",
+    "department" : "美妆",
+    "category" : "",
+    "price" : 2500,
+	"oriPrice":4500,
+    "restTime" : 3,
+    "sellNum" : 840,
+    "attrs" : {
+        "size" : "暮雨",
+        "type" : "枫叶晚霞"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-10.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-10.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-10.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-10.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-10.jpg"
+    },
+    "shopName" : "美妆小铺里约热内卢店",
+    "shopCid" : "lyrnl",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "100001",
+            "attrs" : {
+                "size" : "暮雨",
+                "type" : "在水一方"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "5米"
+            },
+            "price" : 3500,
+			"oriPrice":4500
+        },
+        {
+            "sku" : "100002",
+            "attrs" : {
+                "size" : "笙歌",
+                "type" : "枫叶晚霞"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "10米"
+            },
+            "price" : 4000,
+			"oriPrice":5600
+        },
+        {
+            "sku" : "100003",
+            "attrs" : {
+                "size" : "伊人",
+                "type" : "枫叶晚霞"
+            },
+            "sattrs" : {
+                "width " : "110米",
+                "height " : "15米"
+            },
+            "price" : 5200,
+			"oriPrice":7800
+        },
+        {
+            "sku" : "100004",
+            "attrs" : {
+                "size" : "落花",
+                "type" : "盛世红妆"
+            },
+            "sattrs" : {
+                "width " : "210米",
+                "height " : "25米"
+            },
+            "price" : 8500,
+			"oriPrice":9900
+        }
+    ]
+}
+
+,{
+    "id" : "11_bj",
+    "cid" : 11,
+    "name" : "佳期如梦古风写真",
+    "department" : "写真",
+    "category" : "",
+    "price" : 180,
+	"oriPrice":200,
+    "restTime" : 2,
+    "sellNum" : 920,
+    "attrs" : {
+        "size" : "大号",
+        "type" : "鹊桥仙"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-1.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-1.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-1.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-1.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-1.jpg"
+    },
+    "shopName" : "美妆小铺北京店",
+    "shopCid" : "bj",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "10001",
+            "attrs" : {
+                "size" : "小号",
+                "type" : "醉花荫"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 180,
+			"oriPrice":200
+        },
+        {
+            "sku" : "10002",
+            "attrs" : {
+                "size" : "中号",
+                "type" : "少年游"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 400,
+			"oriPrice":600
+        },
+        {
+            "sku" : "10003",
+            "attrs" : {
+                "size" : "大号",
+                "type" : "鹊桥仙"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 800,
+			"oriPrice":1000
+        },
+        {
+            "sku" : "10004",
+            "attrs" : {
+                "size" : "大号",
+                "type" : "点绛唇"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 1600,
+			"oriPrice":5200
+        }
+    ]
+}
+
+,{
+    "id" : "21_lsj",
+    "cid" : 21,
+    "name" : "花开并蒂盛世写真",
+    "department" : "写真",
+    "category" : "",
+    "price" : 400,
+	"oriPrice":500,
+    "restTime" : 5,
+    "sellNum" : 980,
+    "attrs" : {
+        "size" : "青色",
+        "type" : "茉莉世家"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-2.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-2.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-2.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-2.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-2.jpg"
+    },
+    "shopName" : "美妆小铺洛杉矶店",
+    "shopCid" : "lsj",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "20001",
+            "attrs" : {
+                "size" : "青色",
+                "type" : "花开半夏"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 400,
+			"oriPrice":500
+        },
+        {
+            "sku" : "20002",
+            "attrs" : {
+                "size" : "粉色",
+                "type" : "茉莉世家"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 500,
+			"oriPrice":1000
+        },
+        {
+            "sku" : "20003",
+            "attrs" : {
+                "size" : "红色",
+                "type" : "万紫千红"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 600,
+			"oriPrice":1200
+        },
+        {
+            "sku" : "20004",
+            "attrs" : {
+                "size" : "紫色",
+                "type" : "紫气东来"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 800,
+			"oriPrice":4400
+        }
+    ]
+}
+
+,{
+    "id" : "31_hexj",
+    "cid" : 31,
+    "name" : "阳光海滩欢乐度假",
+    "department" : "旅游",
+    "category" : "",
+    "price" : 250,
+	"oriPrice":300,
+    "restTime" : 20,
+    "sellNum" : 130,
+    "attrs" : {
+        "size" : "小孩",
+        "type" : "夏威夷"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-3.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-3.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-3.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-3.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-3.jpg"
+    },
+    "shopName" : "美妆小铺赫尔辛基店",
+    "shopCid" : "hexj",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "30001",
+            "attrs" : {
+                "size" : "小孩",
+                "type" : "鼓浪屿"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 250,
+			"oriPrice":300
+        },
+        {
+            "sku" : "30002",
+            "attrs" : {
+                "size" : "会员卡",
+                "type" : "夏威夷"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 200,
+			"oriPrice":300
+        },
+        {
+            "sku" : "30003",
+            "attrs" : {
+                "size" : "成人票",
+                "type" : "海南岛"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 300,
+			"oriPrice":400
+        },
+        {
+            "sku" : "30004",
+            "attrs" : {
+                "size" : "会员卡",
+                "type" : "巴厘岛"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 450,
+			"oriPrice":600
+        }
+    ]
+}
+
+,{
+    "id" : "43_nn",
+    "cid" : 43,
+    "name" : "鸾凤合鸣潮州古琴",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 2800,
+	"oriPrice":3000,
+    "restTime" : 3,
+    "sellNum" : 4,
+    "attrs" : {
+        "size" : "实木",
+        "type" : "渔舟唱晚"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-4.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-4.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-4.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-4.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-4.jpg"
+    },
+    "shopName" : "美妆小铺南宁店",
+    "shopCid" : "nn",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "40001",
+            "attrs" : {
+                "size" : "实木",
+                "type" : "渔舟唱晚"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 2800,
+			"oriPrice":3000
+        },
+        {
+            "sku" : "40002",
+            "attrs" : {
+                "size" : "红木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 5200,
+			"oriPrice":5500
+        },
+        {
+            "sku" : "40003",
+            "attrs" : {
+                "size" : "楠木",
+                "type" : "梅花三弄"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 6300,
+			"oriPrice":7700
+        },
+        {
+            "sku" : "40004",
+            "attrs" : {
+                "size" : "黑檀木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 8450,
+			"oriPrice":9900
+        }
+    ]
+}
+
+,{
+    "id" : "44_se",
+    "cid" : 44,
+    "name" : "鸾凤合鸣潮州古琴",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 3599,
+	"oriPrice":6600,
+    "restTime" : 3,
+    "sellNum" : 94,
+    "attrs" : {
+        "size" : "实木",
+        "type" : "渔舟唱晚"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-4.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-4.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-4.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-4.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-4.jpg"
+    },
+    "shopName" : "美妆小铺首尔店",
+    "shopCid" : "se",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "40001",
+            "attrs" : {
+                "size" : "实木",
+                "type" : "渔舟唱晚"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 3500,
+			"oriPrice":6800
+        },
+        {
+            "sku" : "40002",
+            "attrs" : {
+                "size" : "红木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 5200,
+			"oriPrice":6900
+        },
+        {
+            "sku" : "40003",
+            "attrs" : {
+                "size" : "楠木",
+                "type" : "梅花三弄"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 6300,
+			"oriPrice":7800
+        },
+        {
+            "sku" : "40004",
+            "attrs" : {
+                "size" : "黑檀木",
+                "type" : "雪山春晓"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 8450,
+			"oriPrice":9900
+        }
+    ]
+}
+
+,{
+    "id" : "51_rnw",
+    "cid" : 51,
+    "name" : "执子之手唯美写真",
+    "department" : "写真",
+    "category" : "",
+    "price" : 700,
+	"oriPrice":800,
+    "restTime" : 3,
+    "sellNum" : 5,
+    "attrs" : {
+        "size" : "100张",
+        "type" : "天之痕"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-5.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-5.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-5.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-5.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-5.jpg"
+    },
+    "shopName" : "美妆小铺日内瓦店",
+    "shopCid" : "rnw",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "50001",
+            "attrs" : {
+                "size" : "100张",
+                "type" : "天之痕"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 700,
+			"oriPrice":800
+        },
+        {
+            "sku" : "50002",
+            "attrs" : {
+                "size" : "100张",
+                "type" : "樱花树"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 800,
+			"oriPrice":900
+        },
+        {
+            "sku" : "50003",
+            "attrs" : {
+                "size" : "300张",
+                "type" : "梅花鹿"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 1300,
+			"oriPrice":1500
+        },
+        {
+            "sku" : "50004",
+            "attrs" : {
+                "size" : "800张",
+                "type" : "海之女"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 2050,
+			"oriPrice":3000
+        }
+    ]
+}
+
+,{
+    "id" : "61_bj",
+    "cid" : 61,
+    "name" : "岁月静好甜蜜之旅",
+    "department" : "旅游",
+    "category" : "",
+    "price" : 900,
+	"oriPrice":1100,
+    "restTime" : 4,
+    "sellNum" : 135,
+    "attrs" : {
+        "size" : "单人",
+        "type" : "体验版"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-6.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-6.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-6.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-6.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-6.jpg"
+    },
+    "shopName" : "美妆小铺北京店",
+    "shopCid" : "bj",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "60001",
+            "attrs" : {
+                "size" : "单人",
+                "type" : "体验版"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 900,
+			"oriPrice":1100
+        },
+        {
+            "sku" : "60002",
+            "attrs" : {
+                "size" : "单人",
+                "type" : "自由行"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 1800,
+			"oriPrice":2200
+        },
+        {
+            "sku" : "60003",
+            "attrs" : {
+                "size" : "双人",
+                "type" : "邂逅版"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 2300,
+			"oriPrice":3300
+        },
+        {
+            "sku" : "60004",
+            "attrs" : {
+                "size" : "全家",
+                "type" : "极光行"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 4000,
+			"oriPrice":4400
+        }
+    ]
+}
+
+,{
+    "id" : "71_lsj",
+    "cid" : 71,
+    "name" : "青青子衿挚爱典藏",
+    "department" : "写真",
+    "category" : "",
+    "price" : 320,
+	"oriPrice":400,
+    "restTime" : 7,
+    "sellNum" : 6,
+    "attrs" : {
+        "size" : "麻布",
+        "type" : "单人"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-7.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-7.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-7.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-7.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-7.jpg"
+    },
+    "shopName" : "美妆小铺洛杉矶店",
+    "shopCid" : "lsj",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "70001",
+            "attrs" : {
+                "size" : "麻布",
+                "type" : "单人"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 320,
+			"oriPrice":400
+        },
+        {
+            "sku" : "70002",
+            "attrs" : {
+                "size" : "网格布",
+                "type" : "单人"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 600,
+			"oriPrice":800
+        },
+        {
+            "sku" : "70003",
+            "attrs" : {
+                "size" : "高光纸",
+                "type" : "双人"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 900,
+			"oriPrice":1100
+        },
+        {
+            "sku" : "70004",
+            "attrs" : {
+                "size" : "油画布",
+                "type" : "全家"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 1000,
+			"oriPrice":2200
+        }
+    ]
+}
+
+,{
+    "id" : "81_jd",
+    "cid" : 81,
+    "name" : "踏雪寻梅北国之旅",
+    "department" : "旅游",
+    "category" : "",
+    "price" : 2200,
+	"oriPrice":3300,
+    "restTime" : 8,
+    "sellNum" : 200,
+    "attrs" : {
+        "size" : "一天",
+        "type" : "普通款"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-8.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-8.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-8.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-8.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-8.jpg"
+    },
+    "shopName" : "美妆小铺京都店",
+    "shopCid" : "jd",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "80001",
+            "attrs" : {
+                "size" : "一天",
+                "type" : "普通款"
+            },
+            "sattrs" : {
+                "width " : "8米",
+                "height " : "5米"
+            },
+            "price" : 2200,
+			"oriPrice":3300
+        },
+        {
+            "sku" : "80002",
+            "attrs" : {
+                "size" : "三天",
+                "type" : "浪漫款"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "8米"
+            },
+            "price" : 2600,
+			"oriPrice":4400
+        },
+        {
+            "sku" : "80003",
+            "attrs" : {
+                "size" : "三天",
+                "type" : "文艺款"
+            },
+            "sattrs" : {
+                "width " : "18米",
+                "height " : "15米"
+            },
+            "price" : 2900,
+			"oriPrice":5500
+        },
+        {
+            "sku" : "80004",
+            "attrs" : {
+                "size" : "七天",
+                "type" : "古典款"
+            },
+            "sattrs" : {
+                "width " : "28米",
+                "height " : "25米"
+            },
+            "price" : 3500,
+			"oriPrice":6600
+        }
+    ]
+}
+
+,{
+    "id" : "91_xn",
+    "cid" : 91,
+    "name" : "悠悠紫竹水韵巴乌",
+    "department" : "音乐",
+    "category" : "",
+    "price" : 600,
+	"oriPrice":700,
+    "restTime" : 9,
+    "sellNum" : 50,
+    "attrs" : {
+        "size" : "F调",
+        "type" : "紫竹版"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-9.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-9.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-9.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-9.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-9.jpg"
+    },
+    "shopName" : "美妆小铺悉尼店",
+    "shopCid" : "xn",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "90001",
+            "attrs" : {
+                "size" : "F调",
+                "type" : "紫竹版"
+            },
+            "sattrs" : {
+                "width " : "9米",
+                "height " : "5米"
+            },
+            "price" : 600,
+			"oriPrice":700
+        },
+        {
+            "sku" : "90002",
+            "attrs" : {
+                "size" : "G调",
+                "type" : "红木版"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "9米"
+            },
+            "price" : 900,
+			"oriPrice":1200
+        },
+        {
+            "sku" : "90003",
+            "attrs" : {
+                "size" : "降B调",
+                "type" : "红木版"
+            },
+            "sattrs" : {
+                "width " : "19米",
+                "height " : "15米"
+            },
+            "price" : 1200,
+			"oriPrice":1500
+        },
+        {
+            "sku" : "90004",
+            "attrs" : {
+                "size" : "C调",
+                "type" : "黑檀木版"
+            },
+            "sattrs" : {
+                "width " : "29米",
+                "height " : "25米"
+            },
+            "price" : 2500,
+			"oriPrice":3300
+        }
+    ]
+}
+
+,{
+    "id" : "101_jd",
+    "cid" : 101,
+    "name" : "盛世红妆凤栖于桐",
+    "department" : "美妆",
+    "category" : "",
+    "price" : 3800,
+	"oriPrice":4400,
+    "restTime" : 3,
+    "sellNum" : 120,
+    "attrs" : {
+        "size" : "暮雨",
+        "type" : "在水一方"
+    },
+    "sattrs" : {},
+    "imgs" : {
+        "car" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/car-10.jpg",
+        "sqr" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/sqr-10.jpg",
+        "rect" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/rect-10.jpg",
+        "cut" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/cut-10.jpg",
+        "hot" : "http://ancient-mall.oss-cn-shenzhen.aliyuncs.com/goodses/hot-10.jpg"
+    },
+    "shopName" : "美妆小铺京都店",
+    "shopCid" : "jd",
+	"fav":false,
+    "vars" : [
+        {
+            "sku" : "100001",
+            "attrs" : {
+                "size" : "暮雨",
+                "type" : "在水一方"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "5米"
+            },
+            "price" : 3800,
+			"oriPrice":4400
+        },
+        {
+            "sku" : "100002",
+            "attrs" : {
+                "size" : "笙歌",
+                "type" : "枫叶晚霞"
+            },
+            "sattrs" : {
+                "width " : "10米",
+                "height " : "10米"
+            },
+            "price" : 4000,
+			"oriPrice":5500
+        },
+        {
+            "sku" : "100003",
+            "attrs" : {
+                "size" : "伊人",
+                "type" : "枫叶晚霞"
+            },
+            "sattrs" : {
+                "width " : "110米",
+                "height " : "15米"
+            },
+            "price" : 5200,
+			"oriPrice":6600
+        },
+        {
+            "sku" : "100004",
+            "attrs" : {
+                "size" : "落花",
+                "type" : "盛世红妆"
+            },
+            "sattrs" : {
+                "width " : "210米",
+                "height " : "25米"
+            },
+            "price" : 8500,
+			"oriPrice":8800
+        }
+    ]
+}]

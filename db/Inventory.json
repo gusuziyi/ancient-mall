@@ -1,0 +1,552 @@
+[{
+		"id": "1",
+		"storeName": "1",
+		"cid": "1_nn",
+		"shopName": "美妆小铺南宁店",
+		"shopCid": "nn",
+		"location": [113.23, 23.16],
+		"locationCity": "广州",
+		"vars": [{
+				"sku": "10001",
+				"quantity": "5"
+			},
+			{
+				"sku": "10003",
+				"quantity": "23"
+			},
+			{
+				"sku": "10004",
+				"quantity": "2"
+			},
+			{
+				"sku": "40001",
+				"quantity": "33"
+			},
+			{
+				"sku": "40002",
+				"quantity": "3"
+			},
+			{
+				"sku": "40004",
+				"quantity": "15"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"storeName": "2",
+		"cid": "2_nn",
+		"shopName": "美妆小铺南宁店",
+		"shopCid": "nn",
+		"location": [120.62, 31.32],
+		"locationCity": "苏州",
+		"vars": [{
+				"sku": "10002",
+				"quantity": "53"
+			},
+			{
+				"sku": "10004",
+				"quantity": "26"
+			},
+			{
+				"sku": "40003",
+				"quantity": "13"
+			},
+			{
+				"sku": "40004",
+				"quantity": "22"
+			}
+		]
+	}, {
+		"id": "3",
+		"storeName": "1",
+		"cid": "1_bj",
+		"shopName": "美妆小铺北京店",
+		"shopCid": "bj",
+		"location": [106.9, 27.7],
+		"locationCity": "遵义",
+		"vars": [{
+				"sku": "10001",
+				"quantity": "5"
+			},
+			{
+				"sku": "10003",
+				"quantity": "23"
+			},
+			{
+				"sku": "10004",
+				"quantity": "2"
+			},
+			{
+				"sku": "40001",
+				"quantity": "33"
+			},
+			{
+				"sku": "40002",
+				"quantity": "3"
+			},
+			{
+				"sku": "40004",
+				"quantity": "15"
+			},
+			{
+				"sku": "60002",
+				"quantity": "22"
+			},
+			{
+				"sku": "60004",
+				"quantity": "150"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"storeName": "2",
+		"cid": "2_bj",
+		"shopName": "美妆小铺北京店",
+		"shopCid": "bj",
+		"location": [125.35, 43.88],
+		"locationCity": "长春",
+		"vars": [{
+				"sku": "10002",
+				"quantity": "53"
+			},
+			{
+				"sku": "10004",
+				"quantity": "26"
+			},
+			{
+				"sku": "40003",
+				"quantity": "13"
+			},
+			{
+				"sku": "40004",
+				"quantity": "22"
+			},
+			{
+				"sku": "60003",
+				"quantity": "13"
+			},
+			{
+				"sku": "60001",
+				"quantity": "22"
+			}
+		]
+	},
+	{
+		"id": "5",
+		"storeName": "1",
+		"cid": "1_hexj",
+		"shopName": "美妆小铺赫尔辛基店",
+		"shopCid": "hexj",
+		"location": [117.27, 31.86],
+		"locationCity": "合肥",
+		"vars": [{
+				"sku": "30001",
+				"quantity": "53"
+			},
+			{
+				"sku": "30002",
+				"quantity": "26"
+			},
+			{
+				"sku": "30003",
+				"quantity": "13"
+			},
+			{
+				"sku": "30004",
+				"quantity": "22"
+			}
+		]
+	},
+	{
+		"id": "6",
+		"storeName": "1",
+		"cid": "1_lyrnl",
+		"shopName": "美妆小铺里约热内卢店",
+		"shopCid": "lyrnl",
+		"location": [84.77, 45.59],
+		"locationCity": "克拉玛依",
+		"vars": [{
+				"sku": "100001",
+				"quantity": "53"
+			},
+			{
+				"sku": "100002",
+				"quantity": "26"
+			},
+			{
+				"sku": "100003",
+				"quantity": "13"
+			},
+			{
+				"sku": "100004",
+				"quantity": "22"
+			}
+		]
+	},
+
+	{
+		"id": "7",
+		"storeName": "1",
+		"cid": "1_lsj",
+		"shopName": "美妆小铺洛杉矶店",
+		"shopCid": "lsj",
+		"location": [119.1, 36.62],
+		"locationCity": "潍坊",
+		"vars": [{
+				"sku": "20001",
+				"quantity": "5"
+			},
+			{
+				"sku": "20003",
+				"quantity": "23"
+			},
+			{
+				"sku": "20004",
+				"quantity": "2"
+			},
+			{
+				"sku": "70001",
+				"quantity": "33"
+			},
+			{
+				"sku": "70002",
+				"quantity": "3"
+			},
+			{
+				"sku": "70004",
+				"quantity": "15"
+			}
+		]
+	},
+	{
+		"id": "8",
+		"storeName": "2",
+		"cid": "2_lsj",
+		"shopName": "美妆小铺洛杉矶店",
+		"shopCid": "lsj",
+		"location": [113, 28.21],
+		"locationCity": "长沙",
+		"vars": [{
+				"sku": "20002",
+				"quantity": "53"
+			},
+			{
+				"sku": "20004",
+				"quantity": "26"
+			},
+			{
+				"sku": "70003",
+				"quantity": "13"
+			},
+			{
+				"sku": "70004",
+				"quantity": "22"
+			}
+		]
+	}, {
+		"id": "9",
+		"storeName": "1",
+		"cid": "1_jd",
+		"shopName": "美妆小铺京都店",
+		"shopCid": "jd",
+		"location": [119.1, 36.62],
+		"locationCity": "潍坊",
+		"vars": [{
+				"sku": "20001",
+				"quantity": "5"
+			},
+			{
+				"sku": "20003",
+				"quantity": "23"
+			},
+			{
+				"sku": "20004",
+				"quantity": "2"
+			},
+			{
+				"sku": "40001",
+				"quantity": "33"
+			},
+			{
+				"sku": "40002",
+				"quantity": "3"
+			},
+			{
+				"sku": "40004",
+				"quantity": "15"
+			}
+		]
+	},
+	{
+		"id": "10",
+		"storeName": "2",
+		"cid": "2_jd",
+		"shopName": "美妆小铺京都店",
+		"shopCid": "jd",
+		"location": [91.11, 29.97],
+		"locationCity": "拉萨",
+		"vars": [{
+				"sku": "20002",
+				"quantity": "53"
+			},
+			{
+				"sku": "20004",
+				"quantity": "26"
+			},
+			{
+				"sku": "40003",
+				"quantity": "13"
+			},
+			{
+				"sku": "40004",
+				"quantity": "22"
+			},
+			{
+				"sku": "80001",
+				"quantity": "53"
+			},
+			{
+				"sku": "80003",
+				"quantity": "26"
+			},
+			{
+				"sku": "100002",
+				"quantity": "13"
+			},
+			{
+				"sku": "100001",
+				"quantity": "22"
+			}
+		]
+	},
+	{
+		"id": "11",
+		"storeName": "3",
+		"cid": "3_jd",
+		"shopName": "美妆小铺京都店",
+		"shopCid": "jd",
+		"location": [108.33, 22.84],
+		"locationCity": "南宁",
+		"vars": [{
+				"sku": "80002",
+				"quantity": "53"
+			},
+			{
+				"sku": "80004",
+				"quantity": "26"
+			},
+			{
+				"sku": "100003",
+				"quantity": "13"
+			},
+			{
+				"sku": "100004",
+				"quantity": "22"
+			}
+		]
+	},
+	{
+		"id": "12",
+		"storeName": "1",
+		"cid": "1_se",
+		"shopName": "美妆小铺首尔店",
+		"shopCid": "se",
+		"location": [102.73, 25.04],
+		"locationCity": "昆明",
+		"vars": [{
+				"sku": "40001",
+				"quantity": "15"
+			},
+			{
+				"sku": "40003",
+				"quantity": "123"
+			},
+			{
+				"sku": "40004",
+				"quantity": "12"
+			},
+			{
+				"sku": "40002",
+				"quantity": "313"
+			}
+		]
+	}, {
+		"id": "13",
+		"storeName": "1",
+		"cid": "1_wl",
+		"shopName": "美妆小铺文莱店",
+		"shopCid": "wl",
+		"location": [106.27, 38.47],
+		"locationCity": "银川",
+		"vars": [{
+				"sku": "90001",
+				"quantity": "5"
+			},
+			{
+				"sku": "90003",
+				"quantity": "23"
+			},
+			{
+				"sku": "90004",
+				"quantity": "2"
+			},
+			{
+				"sku": "90002",
+				"quantity": "33"
+			}
+		]
+	},
+	{
+		"id": "14",
+		"storeName": "1",
+		"cid": "1_xn",
+		"shopName": "美妆小铺悉尼店",
+		"shopCid": "xn",
+		"location": [106.54, 29.59],
+		"locationCity": "重庆",
+		"vars": [{
+				"sku": "50001",
+				"quantity": "25"
+			},
+			{
+				"sku": "50003",
+				"quantity": "23"
+			},
+			{
+				"sku": "50004",
+				"quantity": "22"
+			},
+			{
+				"sku": "50002",
+				"quantity": "33"
+			}
+		]
+	},
+	{
+		"id": "15",
+		"storeName": "1",
+		"cid": "1_mlks",
+		"shopName": "美妆小铺马拉喀什店",
+		"shopCid": "mlks",
+		"location": [114.35, 34.79],
+		"locationCity": "开封",
+		"vars": [{
+				"sku": "60001",
+				"quantity": "75"
+			},
+			{
+				"sku": "60003",
+				"quantity": "23"
+			},
+			{
+				"sku": "60004",
+				"quantity": "52"
+			},
+			{
+				"sku": "60002",
+				"quantity": "33"
+			}
+		]
+	}, {
+		"id": "16",
+		"storeName": "1",
+		"cid": "1_kpd",
+		"shopName": "美妆小铺开普敦店",
+		"shopCid": "kpd",
+		"location": [129.58, 44.6],
+		"locationCity": "牡丹江",
+		"vars": [{
+				"sku": "80001",
+				"quantity": "65"
+			},
+			{
+				"sku": "80003",
+				"quantity": "23"
+			},
+			{
+				"sku": "80004",
+				"quantity": "52"
+			},
+			{
+				"sku": "80002",
+				"quantity": "32"
+			}
+		]
+	}, {
+		"id": "17",
+		"storeName": "1",
+		"cid": "1_ld",
+		"shopName": "美妆小铺伦敦店",
+		"shopCid": "ld",
+		"location": [110, 40.58],
+		"locationCity": "包头",
+		"vars": [{
+				"sku": "30001",
+				"quantity": "22"
+			},
+			{
+				"sku": "30003",
+				"quantity": "13"
+			},
+			{
+				"sku": "30004",
+				"quantity": "12"
+			}
+		]
+	}, {
+		"id": "18",
+		"storeName": "2",
+		"cid": "2_ld",
+		"shopName": "美妆小铺伦敦店",
+		"shopCid": "ld",
+		"location": ["119", "25.43"],
+		"locationCity": "莆田",
+		"vars": [{
+				"sku": "30001",
+				"quantity": "15"
+			},
+		
+			{
+				"sku": "30002",
+				"quantity": "37"
+			}
+		]
+	},{
+		"id": "19",
+		"storeName": "1",
+		"cid": "1_dld",
+		"shopName": "美妆小铺多伦多店",
+		"shopCid": "dld",
+		"location": [114.47, 36.6],
+		"locationCity": "邯郸",
+		"vars": [{
+				"sku": "70001",
+				"quantity": "75"
+			},
+			{
+				"sku": "70003",
+				"quantity": "23"
+			},
+			{
+				"sku": "70004",
+				"quantity": "52"
+			},
+			{
+				"sku": "70002",
+				"quantity": "33"
+			}
+		]
+	},{
+		"id": "20",
+		"storeName": "1",
+		"cid": "1_rnw",
+		"shopName": "美妆小铺日内瓦店",
+		"shopCid": "rnw",
+		"location": [114.47, 36.6],
+		"locationCity": "邯郸",
+		"vars": []
+	}
+
+]

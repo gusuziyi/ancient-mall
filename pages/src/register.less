@@ -1,0 +1,157 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	padding-top: 5rem;
+	padding-left: 15rem;
+	padding-right: 40rem;
+	background-color: white;
+	background-image: url('./login.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 27rem -2rem;
+	height: 36.5rem;
+	.title {
+		color: purple;
+		font-size: 1.8rem;
+		font-family: '华文琥珀';
+		letter-spacing: 0.4rem;
+		margin-bottom: 1rem;
+	}
+	.warpper {
+		width: 20rem;
+		height: 25rem;
+		background-color: white;
+		color: purple;
+		border-radius: 4px;
+		box-shadow: 0 0 3px purple;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		.login-div {
+			margin: 0.5rem auto;
+			color: #777;
+			.item {
+				cursor: pointer;
+				padding-bottom: 0.2rem;
+				&:hover {
+					border-bottom: 1px solid purple;
+					color: purple;
+				}
+				a {
+					text-decoration: none;
+					color: purple;
+				}
+			}
+			.active {
+				color: purple;
+				border-bottom: 1px solid purple;
+			}
+			.register {
+				margin-left: 1rem;
+			}
+		}
+		.more-login {
+			margin-top: 1.5rem;
+			color: #aaa;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: flex-start;
+			.more-title {
+				font-size: 0.8rem;
+				position: relative;
+				width: 5rem;
+				&::before {
+					content: '';
+					border-top: 1px solid #ccc;
+					display: block;
+					position: absolute;
+					left: -4rem;
+					top: 0.5rem;
+					box-sizing: border-box;
+					width: 3rem;
+					height: 1rem;
+				}
+				&::after {
+					content: '';
+					border-top: 1px solid #ccc;
+					display: block;
+					position: absolute;
+					right: -4rem;
+					top: 0.5rem;
+					box-sizing: border-box;
+					width: 3rem;
+					height: 1rem;
+				}
+			}
+		.links{
+			margin-top: .5rem;
+			a {
+				margin: auto 1rem;
+				&:hover{
+					color: purple;
+				}
+				i{
+					font-size: 2rem;
+				}
+				
+				color: #777;
+				text-decoration: none;
+			}
+			
+			
+		}
+		}
+		.ruleForm {
+			margin-top: 1rem;
+			.verCode {
+				width: 6.5rem;
+				margin-right: 0.2rem;
+			}
+			.btn-div {
+				display: flex;
+				justify-content: space-between;
+				margin-top: 0.5rem;
+				.goback{
+					margin-right: -.2rem;
+				}
+				button {
+					margin-right: 0.85rem;
+				}
+				a {
+					text-decoration: none;
+					color: #000;
+				}
+				&-login{
+					margin-top: -.5rem;
+					.login{
+						margin-left: -.2rem;
+					}
+				}
+			}
+		}
+	}
+	
+	&.is404c{
+		padding-top: 10rem;
+		min-width: 20rem;
+	}
+	.is404{
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
+		height:3rem;
+		margin-top: 2rem;
+		min-width: 20rem;
+		.info-div{
+			color: grey;
+			font-size: 1.1rem;
+			padding-left: 2rem;
+			border-left: 1.5px dotted purple;
+			margin-left: 1.5rem;
+		}
+	}
+}

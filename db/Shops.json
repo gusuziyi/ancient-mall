@@ -1,0 +1,248 @@
+[{
+	"id": "1",
+	"cid": "nn",
+	"shopName": "美妆小铺南宁店",
+	"storeCId": ["1_nn","2-nn"],
+	"department":"美妆",
+	"star": 5,
+	"address": {
+		"addr": "南威尔士大街4号",
+		"city": "南宁",
+		"province": "广西",
+		"phone": "12345",
+		"country": "中国"
+	},
+	"location": [108.479, 23.1152],
+	"area":"亚洲"
+},{
+	"id": "2",
+	"cid": "bj",
+	"shopName": "美妆小铺北京店",
+	"storeCId": ["1_nn","2-nn"],
+	"department":"美妆",
+	"star": 4,
+	"address": {
+		"addr": "伊丽莎白大街3号",
+		"city": "北京",
+		"province": "北京",
+		"phone": "12345",
+		"country": "中国"
+	},
+	"location": [116.2307, 39.5496],
+	"area":"亚洲"
+},
+{
+	"id": "3",
+	"cid": "lyrnl",
+	"shopName": "美妆小铺里约热内卢店",
+	"storeCId": ["1_lyrnl"],
+	"department":"旅游",
+	"star": 3,
+	"address": {
+		"addr": "维多利亚大街1号",
+		"city": "里约热内卢",
+		"province": "里约热内卢",
+		"phone": "12345",
+		"country": "巴西"
+	},
+	"location": [-43.7539, -22.1904],
+	"area":"美洲"
+},
+{
+	"id": "4",
+	"cid": "hexj",
+	"shopName": "美妆小铺赫尔辛基店",
+	"storeCId": ["1_hexj"],
+	"department":"旅游",
+	"star": 5,
+	"address": {
+		"addr": "维多利亚大街1号",
+		"city": "赫尔辛基",
+		"province": "赫尔辛基",
+		"phone": "12345",
+		"country": "芬兰"
+	},
+	"location": [24.909912, 60.169095],
+	"area":"欧洲"
+},
+{
+	"id": "5",
+	"cid": "lsj",
+	"shopName": "美妆小铺洛杉矶店",
+	"storeCId": ["1_lsj","2-lsj"],
+	"department":"写真",
+	"star": 4,
+	"address": {
+		"addr": "维多利亚大街1号",
+		"city": "洛杉矶",
+		"province": "加州",
+		"phone": "12345",
+		"country": "美国"
+	},
+	"location": [-118.696295, 34.679979],
+	"area":"美洲"
+},{
+	"id": "6",
+	"cid": "jd",
+	"shopName": "美妆小铺京都店",
+	"storeCId": ["1_jd","2-jd","3-jd"],
+	"department":"旅游",
+	"star": 5,
+	"address": {
+		"addr": "雅诗兰黛大街5号",
+		"city": "京都",
+		"province": "关西",
+		"phone": "12345",
+		"country": "日本"
+	},
+	"location": [139.710164, 35.706962],
+	"area":"亚洲"
+},
+{
+	"id": "7",
+	"cid": "se",
+	"shopName": "美妆小铺首尔店",
+	"storeCId": ["1_se"],
+	"department":"音乐",
+	"star": 3,
+	"address": {
+		"addr": "南威尔士大街4号",
+		"city": "首尔",
+		"province": "关西",
+		"phone": "12345",
+		"country": "韩国"
+	},
+	"location":[126.979208, 37.53875],
+	"area":"亚洲"
+},
+{
+	"id": "8",
+	"cid": "rnw",
+	"shopName": "美妆小铺日内瓦店",
+	"storeCId": [],
+	"department":"美妆",
+	"star": 1,
+	"address": {
+		"addr": "伊丽莎白大街3号",
+		"city": "日内瓦",
+		"province": "日内瓦",
+		"phone": "12345",
+		"country": "瑞士"
+	},
+	"location":[7.445147, 46.956241],
+	"area":"欧洲"
+}
+,{
+	"id": "9",
+	"cid": "wl",
+	"shopName": "美妆小铺文莱店",
+	"storeCId": ["1_wl"],
+	"department":"美妆",
+	"star": 4,
+	"address": {
+		"addr": "莎士比亚大街2号",
+		"city": "文莱",
+		"province": "文莱",
+		"phone": "12345",
+		"country": "文莱"
+	},
+	"location":[114.53244, 4.300343],
+	"area":"亚洲"
+},{
+	"id": "10",
+	"cid": "xn",
+	"shopName": "美妆小铺悉尼店",
+	"storeCId": ["1_xn"],
+	"department":"写真",
+	"star": 4,
+	"address": {
+		"addr": "维多利亚大街1号",
+		"city": "悉尼",
+		"province": "悉尼",
+		"phone": "12345",
+		"country": "澳大利亚"
+	},
+	"location":[151.193845, -33.304039],
+	"area":"大洋洲"
+},{
+	"id": "11",
+	"cid": "mlks",
+	"shopName": "美妆小铺马拉喀什店",
+	"storeCId": ["1_mlks"],
+	"department":"旅游",
+	"star": 5,
+	"address": {
+		"addr": "雅诗兰黛大街5号",
+		"city": "马拉喀什",
+		"province": "马拉喀什",
+		"phone": "12345",
+		"country": "摩洛哥"
+	},
+	"location":[-7.402393, 23.518569],
+	"area":"非洲"
+},{
+	"id": "12",
+	"cid": "kpd",
+	"shopName": "美妆小铺开普敦店",
+	"storeCId": ["1_kpd"],
+	"department":"旅游",
+	"star": 3,
+	"address": {
+		"addr": "南威尔士大街4号",
+		"city": "开普敦",
+		"province": "开普敦",
+		"phone": "12345",
+		"country": "南非"
+	},
+	"location":[18.402393,-33.518569],
+	"area":"非洲"
+},{
+	"id": "13",
+	"cid": "mjds",
+	"shopName": "美妆小铺摩加迪沙店",
+	"storeCId": [],
+	"department":"旅游",
+	"star": 3,
+	"address": {
+		"addr": "伊丽莎白大街3号",
+		"city": "摩加迪沙",
+		"province": "摩加迪沙",
+		"phone": "12345",
+		"country": "索马里"
+	},
+	"location":[45.402393, 2.518569],
+	"area":"非洲"
+},{
+	"id": "14",
+	"cid": "ld",
+	"shopName": "美妆小铺伦敦店",
+	"storeCId": ["1_ld","2_ld"],
+	"department":"旅游",
+	"star": 5,
+	"address": {
+		"addr": "伊丽莎白大街3号",
+		"city": "伦敦",
+		"province": "伦敦",
+		"phone": "12345",
+		"country": "英国"
+	},
+	"location": [-0.126608, 51.208425],
+	"area":"欧洲"
+},
+{
+	"id": "15",
+	"cid": "dld",
+	"shopName": "美妆小铺多伦多店",
+	"storeCId": ["1_dld"],
+	"department":"写真",
+	"star": 4,
+	"address": {
+		"addr": "维多利亚大街1号",
+		"city": "多伦多",
+		"province": "多伦多",
+		"phone": "12345",
+		"country": "加拿大"
+	},
+	"location":  [-79.646409, 43.994255],
+	"area":"美洲"
+}]

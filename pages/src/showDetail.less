@@ -1,0 +1,136 @@
+.warpper {
+	height: 30rem;
+	width: 75rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding-left: 6rem;
+	.assort {
+		margin-top: 1rem;
+	}
+	.goods-info {
+		margin-top: 1.2rem;
+		display: flex;
+		color: purple;
+		background-color: white;
+		.goods {
+			margin: 1rem 2rem 0.5rem 3rem;
+			.goods-title {
+				font-size: 1.5rem;
+				display: flex;
+				justify-content: space-between;
+				width: 35rem;
+				a {
+					cursor: pointer;
+					text-decoration: none;
+					font-size: 1rem;
+					margin-left: 3rem;
+					color: purple;
+					i {
+						margin-right: 0.3rem;
+					}
+					& + a {
+						margin-left: 1.5rem;
+					}
+				}
+			}
+			.goods-price {
+				display: flex;
+				justify-content: flex-start;
+				position: relative;
+				margin-top: 0.5rem;
+				&-num {
+					font-size: 3rem;
+					color: #f43499;
+				}
+				&-count {
+					margin-left: 1rem;
+					&-num {
+						border: 1px solid #f43499;
+						color: #f43499;
+						padding: 0.1rem 0.3rem;
+						border-radius: 4px;
+					}
+					&-oriprice {
+						text-decoration: line-through;
+						margin-top: 0.5rem;
+						color: gray;
+						font-size: 0.9rem;
+					}
+				}
+				&-resttime {
+					position: absolute;
+					right: 0rem;
+					top: 0rem;
+				}
+			}
+			.goods-size {
+				font-size: 0.9rem;
+				margin-top: 1.2rem;
+				&-size,
+				&-type {
+					margin-top: 0.5rem;
+					padding-left: 0.5rem;
+					border-left: 0.5rem solid purple;
+					.title {
+						margin-right: 1rem;
+					}
+				}
+			}
+			.input-number {
+				margin-top: 0.3rem;
+				.title {
+					margin-right: 0rem;
+					letter-spacing: 1rem;
+				}
+				.inventory {
+					margin-left: 0.5rem;
+					font-size: 0.9rem;
+				}
+			}
+			.goods-addr {
+				margin-top: 1.2rem;
+				.title {
+					margin-right: 1rem;
+				}
+				.nearly-inventory{
+					margin-left: 0.5rem;
+					font-size: 0.9rem;
+				}
+			}
+			.btn-div-detail {
+				margin-top: 1.5rem;
+				button {
+					margin-right: 0.5rem;
+				}
+			}
+			.goods-share {
+				margin-top: 0.7rem;
+				font-size: 0.9rem;
+				margin-left: -0.2rem;
+				display: flex;
+				justify-content: space-between;
+				width: 17.5rem;
+				a{
+					text-decoration: none;
+					color: purple;
+				}
+				.fav {
+					display: inline-flex;
+					align-items: center;
+					i{
+						font-size: 1rem;
+						margin-left: .2rem;
+					}
+					.el-icon-star-on{
+						color: orangered;
+					}
+					font-size: 0.9rem;
+					text-decoration: none;
+					color: purple;
+				}
+			}
+		}
+	}
+}

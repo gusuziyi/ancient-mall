@@ -1,0 +1,101 @@
+.warpper {
+	font-size: 0.9rem;
+	padding: 1rem 2rem 0 2rem;
+	.err {
+		color: white;
+		background-color: purple;
+		margin-top: 1.5rem;
+		border-radius: 6px;
+		overflow: hidden;
+		border: 1px solid purple;
+		height: 27rem;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 1.5rem;
+	}
+	.shop {
+		color: grey;
+		background-color: white;
+		margin-top: 1.5rem;
+		border-radius: 6px;
+		overflow: hidden;
+		border: 1px solid purple;
+		min-height: 11rem;
+		display: inline-flex;
+		justify-content: space-around;
+		align-items: center;
+		width: 72rem;
+		padding: 0.8rem 1.5rem;
+		.shop-info {
+			font-size: 1.1rem;
+			&-title {
+				font-size: 1.5rem;
+				display: inline-flex;
+				color: purple;
+				.title {
+					margin-right: 2rem;
+				}
+			}
+			&-city {
+				display: flex;
+				justify-content: flex-start;
+				margin-top: 0.8rem;
+				margin-bottom: 0.1rem;
+				.city {
+					margin-right: 1rem;
+					margin-left: 1rem;
+				}
+			}
+			&-department {
+				margin-top: 0.8rem;
+				margin-bottom: 0.1rem;
+			}
+			&-map,
+			&-inventory-map {
+				margin-top: 0.5rem;
+				height: 10rem;
+				width: 22rem;
+				margin-left: 1.5rem;
+				border: 1px solid purple;
+			}
+		}
+	}
+	.goodses {
+		font-size: 1.1rem;
+		color: grey;
+		background-color: white;
+		margin-top: 1rem;
+		padding: 0.8rem 1.5rem;
+		padding-top: 1rem;
+		border-radius: 6px;
+		overflow: hidden;
+		border: 1px solid purple;
+		min-height: 11rem;
+		width: 72rem;
+		.shop-sort {
+			width: 72rem;
+			.item {
+				margin-right: 0.5rem;
+				&.after {
+					margin-left: 2rem;
+				}
+			}
+		}
+		.shop-goodses {
+			display: flex;
+			flex-wrap: wrap;
+			margin-top: 0.5rem;
+			.goods{
+				margin-right: 1rem;
+				margin-top: 1rem;
+				&:hover{
+					cursor: pointer;
+				}
+			}
+			.goods:nth-child(3n){
+				margin-right: 0rem;
+			}
+		}
+	}
+}
